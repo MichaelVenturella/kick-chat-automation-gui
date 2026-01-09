@@ -9,6 +9,13 @@ This project uses **PyQt5** and **Selenium (undetected-chromedriver)** to automa
 
 ---
 
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/2c405bfc-7630-4dd6-820e-52d3a293bba6" />
+
+
+## 🔨 To Build Executable:
+```bash
+python -m PyInstaller --onefile --windowed --name "KickChatAutomator" kick_chat_bot.py
+```
 ## 🚀 Features
 
 - GUI-based interface (PyQt5)
